@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+vectorstore/
+.ipynb_checkpoints/
+.DS_Store
+debug_*.txt
+debug_*.py
