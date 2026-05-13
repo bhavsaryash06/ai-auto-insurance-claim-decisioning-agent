@@ -44,14 +44,6 @@ Then it:
 - FastAPI backend
 - Streamlit UI
 
-## How to Run
-
-### 1. Activate virtual environment
-
-```powershell
-.venv\Scripts\activate
-
-
 ## Application Screenshots
 
 ### Streamlit UI - Claim Decision
@@ -69,6 +61,14 @@ Then it:
 ### Policy Evidence Citations
 
 ![Policy Evidence Citations](assets/image-4.jpeg)
+
+## How to Run
+
+### 1. Activate virtual environment
+
+```powershell
+.venv\Scripts\activate
+
 
 
 
